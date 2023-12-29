@@ -1,6 +1,6 @@
 # foodie
-Food Delivery App with Firebase and React Native
-- This is the User End repository
+Food Delivery App with Firebase and React Native 🍊( This is the User End repository )
+
 ## Overview
 Welcome to the Food Delivery App repository! This mobile application is built using React Native for the front end and Firebase for the backend. It allows users to browse a variety of restaurants, view their menus, place orders, and track the delivery status.
 
