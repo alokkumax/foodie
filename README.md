@@ -1,2 +1,3 @@
 # foodie
-A Food Delivery App | User End
+A Food Delivery App with Firebase 🍊
+- This is the User End repository
